@@ -1,4 +1,4 @@
-# VC-GY
+# Contador de laranjas
 Aplicação em C/C++ para detectar, acompanhar e contar laranjas num vídeo. O programa utiliza o OpenCV para ler e apresentar as imagens e funções próprias (`vc.c`/`vc.h`) para a segmentação e análise dos objectos.
 
 ## Funcionalidades
